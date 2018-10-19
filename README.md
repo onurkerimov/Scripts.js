@@ -1,6 +1,6 @@
 
 # Scripts.js
-With scripts.js, you can include any text file in your document, by adding it in the `<head>` as a `<script>`. The plugin this this vith XMLHttpRequest calls.
+With scripts.js, you can include any text file in your document, by adding it in the `<head>` as a `<script>`. The plugin does this vith XMLHttpRequest calls.
 
 ## Usage
 You can access the following `'content of my block'` string via javascript, by calling `document.querySelector('script[type="myblock"]').innerHTML`,
