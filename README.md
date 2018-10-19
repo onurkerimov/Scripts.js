@@ -32,7 +32,9 @@ Scripts.add('./path-to-file/file.extension', function(txt) {
 
 ## API
 `Scripts.add( type[string] , callback[function] )`
+
 `Scripts.run( void )`
+
 `Scripts.fileRead( path[string] , callback[function] )`
 
 ## License
