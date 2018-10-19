@@ -38,4 +38,4 @@ Scripts.add('./path-to-file/file.extension', function(txt) {
 `Scripts.fileRead( path[string] , callback[function] )`
 
 ## License
-Licensed by the MIT License.
+Licensed under the MIT License.
